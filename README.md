@@ -29,5 +29,10 @@ This project analyzes job market data using SQL to understand job demand, salary
 2. Import CSV file
 3. Run queries from `analysis.sql`
 
+## Project Overview
+I built a Job Market Analysis project using SQL and MySQL.
+I imported and cleaned the dataset, designed the table schema, and wrote analysis queries to understand job demand, salary trends, and remote work opportunities.
+All queries and insights are documented in my GitHub repository.
+
 ## Author
 Divya Hirekar
