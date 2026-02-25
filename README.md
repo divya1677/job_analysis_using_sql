@@ -1,2 +1,33 @@
 # job_analysis_using_sql
-This project analyzes a job portal database using SQL. It demonstrates database design, data insertion, and analytical queries.  Database Tables candidates companies jobs applications SQL Concepts Used Joins Group By &amp; Having Subqueries Case When Aggregate functions Tools Used MySQL All queries were executed and tested using MySQL Workbench.
+Project Overview
+This project analyzes job market data using SQL to understand job demand, salary trends, and remote work opportunities.
+
+## Tools Used
+- MySQL
+- SQL
+- GitHub
+- Excel (for CSV preparation)
+
+## Dataset
+- jobs_simple.csv
+- Contains job titles, locations, salary range, work type, and remote availability.
+
+## Analysis Performed
+- Total number of jobs
+- City-wise job distribution
+- Average salary by job role
+- Remote vs Onsite job comparison
+- Full-time vs Contract roles
+
+## Key Insights
+- Remote jobs offer higher average salaries
+- Bangalore has the highest number of job postings
+- Data Analyst and Data Engineer roles are in high demand
+
+## How to Run
+1. Create `jobs` table in MySQL
+2. Import CSV file
+3. Run queries from `analysis.sql`
+
+## Author
+Divya Hirekar
